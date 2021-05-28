@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.velocity:velocity:1.6.2">
+    <CLASSES>
+      <root url="jar://G:/WEBcalss/web/24MAVEN/ziliao/localWarehouse/maven_repository/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://G:/WEBcalss/web/24MAVEN/ziliao/localWarehouse/maven_repository/org/apache/velocity/velocity/1.6.2/velocity-1.6.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://G:/WEBcalss/web/24MAVEN/ziliao/localWarehouse/maven_repository/org/apache/velocity/velocity/1.6.2/velocity-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
